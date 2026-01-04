@@ -1,0 +1,13 @@
+{
+  "name": "flower-sample",
+  "version": "1.0.0",
+  "description": "Node.js web app with login and payment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
